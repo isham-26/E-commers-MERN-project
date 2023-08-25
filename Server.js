@@ -3,7 +3,7 @@ import  Color  from "colors"
 import dotenv from "dotenv"
 import connectDB from "./config/db.js"
 import authRoutes from './routes/authRoute.js'
-//rest object
+//rest object test
 dotenv.config()
 
 const app=express();
